@@ -1,5 +1,5 @@
 ## Automatically adapted for numpy.oldnumeric Mar 26, 2007 by alter_code1.py
-## Adapted to new versions of numpy. Substituted Numeric.
+## DAlvGar: removed numpy.oldnumeric
 
 ##
 ## Biskit, a toolkit for the manipulation of macromolecular structures

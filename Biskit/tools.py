@@ -1,4 +1,4 @@
-## DAG - substituted Numeric
+## DAlvGar: removed numpy.oldnumeric
 ##
 ## Biskit, a toolkit for the manipulation of macromolecular structures
 ## Copyright (C) 2004-2007 Raik Gruenberg & Johan Leckner
